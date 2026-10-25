@@ -1,1 +1,2 @@
 Pierwsze laboratorium Git
+Druga wersja pliku
