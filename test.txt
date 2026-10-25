@@ -1,2 +1,3 @@
 Pierwsze laboratorium Git
 Druga wersja pliku
+Zmiana wykonana przez programiste A
